@@ -25,7 +25,7 @@
 + section[xx]
   > 강의를 보며 작성한 코드
   
-+ assignment/quiz[xx]
++ Assignment/Quiz[xx]
   > section 이후 도움없이 스스로 해결하는 과제
 
     
