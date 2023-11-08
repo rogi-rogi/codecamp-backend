@@ -13,17 +13,20 @@
 > 
 > ~11.05
 >
-
+> 11.06 Quiz 01, 02
+>
+> 11.08 Quiz 03, 04
+>
 
 <br/><hr/>
 
 ### 🗂️ Directory
 
-+ section
-  > 강의를 보며 작성 코드
++ section[xx]
+  > 강의를 보며 작성한 코드
   
-+ assignment
-  > section 이후 도움없이 스스로 진행하는 과제
++ assignment/quiz[xx]
+  > section 이후 도움없이 스스로 해결하는 과제
 
     
 <br><hr/>
