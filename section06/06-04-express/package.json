@@ -1,0 +1,7 @@
+{
+  "name": "06-04-express",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module"
+}

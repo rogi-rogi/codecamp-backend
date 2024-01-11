@@ -1,0 +1,10 @@
+{
+  "name": "06-08-express-with-DI-IoC",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
