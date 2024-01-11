@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "@tsconfig/recommended": "^1.0.3"
+  },
+  "name": "07-01-typescript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}
